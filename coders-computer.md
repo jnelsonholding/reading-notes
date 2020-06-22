@@ -8,6 +8,12 @@ The more useful editors have to be sought out. But depending on what you need, t
 
 ### Terminal cheat sheet:
 
-A | B | C
+command | name | description
 :---: | --- | ---
+pwd | Print Working Directory | shows current working directory
+ls | List | shows what is in the current directory
+cd | Change Directory | allows movement between directories
+file | File | checks the type of a file
+man | Manual | looks up the manual page for a command
+man -k | Manual (search) | keyword search for manual pages
 
