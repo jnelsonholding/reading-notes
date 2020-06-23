@@ -1,12 +1,15 @@
 # Welcome to my notes!
 
-Hi, I'm Jack. If you're interested, [here's my Github portfolio.](https://github.com/jnelsonholding)
+Hi, I'm Jack. If you're interested, [check out my Github portfolio.](https://github.com/jnelsonholding)
 
-## Table of Content for Reading Notes
+## Table of Content for Class 102 Reading Notes
 
   1. [Class 01 Growth Mindset](growth-mindset.md)
   1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   1. [Class 02 Coders Computer](coders-computer.md)
+  1. [Class 03 Revisions and the Cloud](revisions-and-the-cloud.md)
+
+
 
 ### Learning Markdown
 
