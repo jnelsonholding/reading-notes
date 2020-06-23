@@ -6,7 +6,7 @@ Hi, I'm Jack. If you're interested, [here's my Github portfolio.](https://github
 
   1. [Class 01 Growth Mindset](growth-mindset.md)
   1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-  1. Class 02
+  1. [Class 02 Coders Computer](coders-computer.md)
 
 ### Learning Markdown
 
