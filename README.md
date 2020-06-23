@@ -8,6 +8,7 @@ Hi, I'm Jack. If you're interested, [check out my Github portfolio.](https://git
   1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   1. [Class 02 Coders Computer](coders-computer.md)
   1. [Class 03 Revisions and the Cloud](revisions-and-the-cloud.md)
+  1. [Class 04 Structure web pages with HTML](structure-web-pages-with-html.md)
 
 
 
