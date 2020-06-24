@@ -9,6 +9,8 @@ Hi, I'm Jack. If you're interested, [check out my Github portfolio.](https://git
   1. [Class 02 Coders Computer](coders-computer.md)
   1. [Class 03 Revisions and the Cloud](revisions-and-the-cloud.md)
   1. [Class 04 Structure web pages with HTML](structure-web-pages-with-html.md)
+  1. [Class 05 Design web pages with CSS](design-web-pages-with-css.md)
+
 
 
 

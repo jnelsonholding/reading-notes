@@ -1,0 +1,32 @@
+### Notes on CSS
+
+CSS contains two parts: a **selector** and a **declaration**.
+
+- *selector*{*declaration*}
+
+The declaration is made of two parts: a **property** and a **value**.
+
+- {*property*: *value*;}
+
+The link element sits in the head of the HTML and points to the .css stylesheet.
+
+- <link href="css/styles.css" type="test/css" rel="stylesheet" />
+- **I need to learn how to escape characters or add code snippets in Markdown.**
+
+### Color in CSS
+
+The color and background-color properties have three types of values allowed:
+
+- RGB Values: rgb(100,100,100) (red, green, blue) (numbers between 0 and 255)
+- Hex Codes: #a1b2c3 (hexadecimal: 0 - f)
+- Color Names: DarkCyan (note there are 147 specific colors with names)
+
+For text to be legible, it's important to choose a color with enough contrast compared to the background-color.
+
+A newer property is opacity. It allows you to make an HTML element transparent.
+
+- {color: red; opacity: 0.5}
+- opacity values are between 0.0 and 1.0
+- **experiment with this to figure out which end is opaque and which is transparent**
+
+Also a newer property is hsl. It allows you 
