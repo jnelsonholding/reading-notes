@@ -29,4 +29,11 @@ A newer property is opacity. It allows you to make an HTML element transparent.
 - opacity values are between 0.0 and 1.0
 - **experiment with this to figure out which end is opaque and which is transparent**
 
-Also a newer property is hsl. It allows you 
+Also a newer property is *hsl*. It allows you to specify the hue, saturation, and lightness of an element with ease.
+
+- hue is represented by numbers between 0 and 360.
+- saturation is a percentage.
+- lightness is a percentage where 0% is white and 100% is black.
+- eg. {color: red; hsl(0, 10%, 50%)}
+
+*hsla* is the same as hsl except it includes a 4th value: Alpha. Alpha is a number between 0.0 and 1.0 representing transparency.
