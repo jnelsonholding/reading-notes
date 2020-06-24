@@ -19,4 +19,5 @@ I can see how this feature will be useful:
   - [x] Use 5 features of Markdown
   - [x] Introduce yourself and include a link to your Github porfolio
   - [x] Create table of contents to link to reading notes
+  - [ ] Add HTML tag table to class 04 notes
   
