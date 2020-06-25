@@ -10,8 +10,7 @@ The declaration is made of two parts: a **property** and a **value**.
 
 The link element sits in the head of the HTML and points to the .css stylesheet.
 
-- <link href="css/styles.css" type="test/css" rel="stylesheet" />
-- **I need to learn how to escape characters or add code snippets in Markdown.**
+- `<link href="css/styles.css" type="test/css" rel="stylesheet" />`
 
 ### Color in CSS
 
@@ -27,7 +26,6 @@ A newer property is opacity. It allows you to make an HTML element transparent.
 
 - {color: red; opacity: 0.5}
 - opacity values are between 0.0 and 1.0
-- **experiment with this to figure out which end is opaque and which is transparent**
 
 Also a newer property is *hsl*. It allows you to specify the hue, saturation, and lightness of an element with ease.
 
