@@ -27,5 +27,5 @@ I can see how this feature will be useful:
   - [x] Create table of contents to link to reading notes
   - [ ] Add HTML tag table to class 04 notes
   - [x] Catch up on class 06 notes
-  - [ ] Figure out why cheatsheet works in Coders Computer but table is borked in Programming with JavaScript
+  - [x] Figure out why cheatsheet works in Coders Computer but table is borked in Programming with JavaScript
   

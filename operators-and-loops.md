@@ -38,7 +38,7 @@ For loops:
 A for loop repeats its code block for as many repetitions as are specified by its condition. Essentially, it is a while loop where the conditional counts down how many times it's run to decide when it is false and will move on.
 
 ```
-for (var i = 0, i < 10, i++) {
+for (var i = 0; i < 10; i++) {
     do this code block
 }
 ```
