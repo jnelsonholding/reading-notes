@@ -20,7 +20,7 @@ A script is used to complete a goal (output or result). So to write one, it's im
 Arithmetic:
 
 name | symbol | description
-:--- | :---: | :---
+--- | :---: | ---
 Addition  | + | adds two values
 Subtraction | - | subtracts a value from another
 Division | / | divides a value from another
@@ -32,7 +32,7 @@ Modulus | % | returns the remainder after dividing a value from another
 String:
 
 name | symbol | description
-:---|:---:|:---
+--- | :---: | ---
 Concatenate | + | glues two strings together
 
 I'm sure there are more string operators. Would be worth looking up.
