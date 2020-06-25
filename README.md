@@ -13,11 +13,12 @@ Hi, I'm Jack. If you're interested, [check out my Github portfolio.](https://git
   1. [Class 06 Dynamic web pages with JavaScript](dynamic-web-pages-with-javascript.md)
   1. [Class 06 Computer architecture and Logic](computer-architecture-and-logic.md)
   1. [Class 07 Programming with JavaScript](programming-with-javascript.md)
+  1. [Class 08 Operators and Loops](operators-and-loops.md)
 
 
 
 
-### Learning Markdown
+### To Do List
 
 I can see how this feature will be useful:
   - [x] Explain growth mindset
