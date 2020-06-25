@@ -18,6 +18,7 @@ A script is used to complete a goal (output or result). So to write one, it's im
 #### Operators
 
 Arithmetic:
+
 name | symbol | description
 :--- | :---: | :---
 Addition  | + | adds two values
@@ -29,6 +30,7 @@ Decrement | -- | subtracts 1 from a value
 Modulus | % | returns the remainder after dividing a value from another
 
 String:
+
 name | symbol | description
 :---|:---:|:---
 Concatenate | + | glues two strings together
