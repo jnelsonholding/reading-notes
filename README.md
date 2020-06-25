@@ -12,6 +12,7 @@ Hi, I'm Jack. If you're interested, [check out my Github portfolio.](https://git
   1. [Class 05 Design web pages with CSS](design-web-pages-with-css.md)
   1. [Class 06 Dynamic web pages with JavaScript](dynamic-web-pages-with-javascript.md)
   1. [Class 06 Computer architecture and Logic](computer-architecture-and-logic.md)
+  1. [Class 07 Programming with JavaScript](programming-with-javascript.md)
 
 
 
