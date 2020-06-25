@@ -17,3 +17,4 @@ file | File | checks the type of a file
 man | Manual | looks up the manual page for a command
 man -k | Manual (search) | keyword search for manual pages
 
+[Return to table of contents](README.md)

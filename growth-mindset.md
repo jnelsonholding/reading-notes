@@ -4,3 +4,5 @@ To start, growth mindset is an attitude that everything can be learned. It's esp
   - Confusion is a natural part of learning. It's just the first step.
   - There are always other people who have stepped through the same challenges. It's ok to look for help.
   - **It's worth it.** The reward of solving a problem is even better when it was difficult to get through.
+
+[Return to table of contents](README.md)
