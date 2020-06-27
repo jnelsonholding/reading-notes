@@ -66,4 +66,4 @@ funSum(a, b) {
 }
 ```
 
-[Return to table of contents](README.md)
+[Return to table of contents](../README.md)

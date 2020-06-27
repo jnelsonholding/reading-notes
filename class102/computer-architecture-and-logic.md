@@ -13,4 +13,4 @@ A simple way of looking at storage is a series of wires or electrical paths that
 
 The output can also take many forms. One of the most obvious are the visual display of a computer monitor. But output also takes the form of printers, sound from speakers, and some less tangible forms like direction of movement.
 
-[Return to table of contents](README.md)
+[Return to table of contents](../README.md)

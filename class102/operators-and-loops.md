@@ -47,4 +47,4 @@ That code could be read as: for a variable i that starts at 0 and increases by 1
 
 That sounds like gibberish, but it boils down to "run this code 10 times then move on."
 
-[Return to table of contents](README.md)
+[Return to table of contents](../README.md)

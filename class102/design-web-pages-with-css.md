@@ -36,4 +36,4 @@ Also a newer property is *hsl*. It allows you to specify the hue, saturation, an
 
 *hsla* is the same as hsl except it includes a 4th value: Alpha. Alpha is a number between 0.0 and 1.0 representing transparency.
 
-[Return to table of contents](README.md)
+[Return to table of contents](../README.md)

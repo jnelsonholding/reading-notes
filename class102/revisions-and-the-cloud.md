@@ -14,4 +14,4 @@ git add * | adds all files to tracking
 git commit -m "*(update description)*" | creates a commit with tracked files
 git push origin master | pushes committed changes to the master branch in the cloud
 
-[Return to table of contents](README.md)
+[Return to table of contents](../README.md)

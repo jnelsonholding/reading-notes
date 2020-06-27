@@ -6,4 +6,4 @@ A main component of site design is considering who the target users are and how 
 
 Time to start forming an outline. Begin by creating a site map, like a flowchart representing the paths a user could follow from the home page. Then create wireframes for the pages that will allow users to follow their mapped courses. And consider the effect that grouping content will have. Create a visual heirarchy to lead the user's focus to priority content through size, color, and style choices.
 
-[Return to table of contents](README.md)
+[Return to table of contents](../README.md)
