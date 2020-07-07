@@ -4,7 +4,7 @@ Hi, I'm Jack. Welcome to my *cool* collection of notes for my time at **Code Fel
 
 ## Code 201 Table of Contents
 
-  1. [Class-01](201/class-01.md)
+  1. [Class-01 HTML cheatsheet](201/class-01.md)
   1. [TBD](README.md)
   1. [TBD](README.md)
   1. [TBD](README.md)
