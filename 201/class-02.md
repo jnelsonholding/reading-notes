@@ -1,5 +1,7 @@
 ### Class 02 Reading Notes
 
+<h1 id="htmltext"></h1>
+
 ## HTML Text Tags
 
 <!-- experimenting with <code> tags found at http://web.simmons.edu/~grabiner/comm244/weekfour/code-test.html -->
@@ -87,11 +89,15 @@
   </tr>
 </table>
 
+<h1 id="csspriority"></h1>
+
 ## CSS Priority and Inheritance
 
 Certain properties are inherited by an element's children. For instance, a `font-family` property targeting the `<body>` element would also apply to a `<p>` element inside the body. This is a great feature to allow a cohesive style across a page without repetitive code.
 
 To provide the opportunity to overrule a property, CSS will choose the more specific selector when there is conflict. In the previous example, a `<p>` element is a more specific target than a `<body>` element, so it would choose the `<p>` element's styling. Similarly, an ID selector is more specific than a type selector, so the ID specific value would overrule a conflicting property for the general type.
+
+<h1 id="jsfun"></h1>
 
 ## Fun with JavaScript
 

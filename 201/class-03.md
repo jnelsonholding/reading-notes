@@ -10,6 +10,8 @@
 
 ### Class 03 Reading Notes
 
+<h1 id="htmllists"></h1>
+
 ## HTML List Tags
 
 <table>
@@ -73,6 +75,8 @@ result:
     </ul>
   <li>list item 3</li>
 </ul>
+
+<h1 id="cssboxes"></h1>
 
 ## CSS Box Controls
 
@@ -199,6 +203,8 @@ result:
     </td>
   </tr>
 </table>
+
+<h1 id="jsdowhileloops"></h1>
 
 ## JS Do While Loop
 

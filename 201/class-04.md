@@ -8,6 +8,8 @@
 
 ### Class 04 Reading Notes
 
+<h1 id="htmllinks"></h1>
+
 ## HTML Links
 
 Links are wrapped in the `<a></a>` tag. Text placed between those tags shows up as the clickable text for a link on the page.
@@ -42,6 +44,8 @@ The magic of the link is in the `href` attribute, which has the address value th
 </table>
 
 If you want the link to open in a new window instead of navigating away from your page, use the attribute `target="_blank"`.
+
+<h1 id="csslayout"></h1>
 
 ## CSS Layout
 
@@ -84,6 +88,8 @@ Probably gonna have some instances where things overlap. Use `z-index: 5;` to in
 A container with only floated elements can have an issue where it appears as a line. In order to give it dimensions, try these two properties: `overflow: auto;` and `width: 100%;`.
 
 Note that variable screen sizes are a major consideration when designing a page. Designers often make their pages aroudn 960px-1000px as most screens will display that naturally.
+
+<h1 id="jsfunctions"></h1>
 
 ## JavaScript Functions
 
