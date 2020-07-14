@@ -26,6 +26,8 @@ Hi, I'm Jack. Welcome to my *cool* collection of notes for my time at **Code Fel
       - [JS Document Object Model](201/class-06.md#jsdocument)
   1. [Class-07](201/class-07.md)
       - [HTML Tables](201/class-07.md#htmltables)
+      - [JS Objects cont...](201/class-07.md#jsobjects)
+      - [JS Built-In Objects](201/class-07.md#builtin)
   1. [TBD](README.md)
   1. [TBD](README.md)
   1. [TBD](README.md)
