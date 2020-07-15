@@ -26,7 +26,7 @@ The `clear` property can be used to keep a box's sides "clear" of touching other
 
 Parent elements of floated elements can have issues. In some browsers, they will become 0px tall, creating essentially an empty line. There are two properties to set for the parent element to deal with this issue: `overflow: auto;` and `width: 100%;`. This will cause the containing element to expand to the size of its floated child element.
 
-<h1 id="cssdesign"><h1>
+<h1 id="cssdesign"></h1>
 
 ## CSS Layout Design
 
