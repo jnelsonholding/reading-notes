@@ -57,22 +57,6 @@
     <td><code>&lt;legend>&lt;/legend></code></td>
     <td>comes after the opening <code>&lt;legend></code> tag to label the field group</td>
   </tr>
-  <tr>
-    <td><code>&lt;label>&lt;/label></code></td>
-    <td>used to label inputs</td>
-  </tr>
-  <tr>
-    <td><code>&lt;label>&lt;/label></code></td>
-    <td>used to label inputs</td>
-  </tr>
-  <tr>
-    <td><code>&lt;label>&lt;/label></code></td>
-    <td>used to label inputs</td>
-  </tr>
-  <tr>
-    <td><code>&lt;label>&lt;/label></code></td>
-    <td>used to label inputs</td>
-  </tr>
 </table>
 
 [Return to table of contents](../README.md)
