@@ -59,43 +59,4 @@ To create a noticeable block of logs, you can start a `console.group('group name
 
 `console.assert(<conditional>, <if condition is false, log what's here>)` allows logging only if something goes wrong.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [Return to table of contents](../README.md)
