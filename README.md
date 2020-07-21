@@ -39,10 +39,13 @@ Hi, I'm Jack. Welcome to my *cool* collection of notes for my time at **Code Fel
   1. [Class-11](201/class-11.md)
       - [CSS Images](201/class-11.md#images)
       - [SEO and Analytics](201/class-11.md#practical)
+  1. [Class-12](201/class-12.md)
+      - [Chart.js](201/class-12.md#chartjs)
+      - [HTML Canvas](201/class-12.md#canvas)
   1. [TBD](README.md)
   1. [TBD](README.md)
   1. [TBD](README.md)
-  1. [TBD](README.md)
+
 
   ---
 
