@@ -14,7 +14,7 @@
 
 Storage has been an issue for web development since its beginnings. It's necessary because in certain situations, constant retrieval of data from a server can cause major slowdowns for the user. So ideally, you would keep as much local as possible.
 
-HTML5 has 'Web Storage', also known as 'local storage' and 'DOM storage'. It provides a way to store key-value pairs client side. This is accessed through the object `localStorage'. For instance, to set a key-value pair, you would do this:
+HTML5 has 'Web Storage', also known as 'local storage' and 'DOM storage'. It provides a way to store key-value pairs client side. This is accessed through the object `localStorage`. For instance, to set a key-value pair, you would do this:
 
 `localStorage.setItem('savedInt', 5);`
 
