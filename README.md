@@ -42,6 +42,8 @@ Hi, I'm Jack. Welcome to my *cool* collection of notes for my time at **Code Fel
   1. [Class-12](201/class-12.md)
       - [Chart.js](201/class-12.md#chartjs)
       - [HTML Canvas](201/class-12.md#canvas)
+  1. [Class-13](201/class-13.md)
+      - [Local Storage](201/class-13.md#localstorage)
   1. [TBD](README.md)
   1. [TBD](README.md)
   1. [TBD](README.md)
