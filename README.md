@@ -2,6 +2,13 @@
 
 Hi, I'm Jack. Welcome to my *cool* collection of notes for my time at **Code Fellows!**
 
+## Code 301 Table of Contents
+
+  1. [Class-01](301/class-01.md)
+  
+
+---
+
 ## Code 201 Table of Contents
 
   1. [Class-01 HTML cheatsheet](201/class-01.md)
@@ -50,7 +57,7 @@ Hi, I'm Jack. Welcome to my *cool* collection of notes for my time at **Code Fel
   1. [Class-14b](201/class-14b.md)
       - [Team Psychology](201/class-14b.md#psych)
 
-  ---
+---
 
 ### General Study
 
