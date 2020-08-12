@@ -1,4 +1,4 @@
-### Class 02 Reading Notes
+### Class 03 Reading Notes
 
 ## Mustache
 
