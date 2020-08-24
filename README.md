@@ -11,6 +11,7 @@ Hi, I'm Jack. Welcome to my *cool* collection of notes for my time at **Code Fel
   1. [Class-06](301/class-06.md)
   1. [Class-07](301/class-07.md)
   1. [Class-08](301/class-08.md)
+  1. [Class-11](301/class-11.md)
   
 
 ---
