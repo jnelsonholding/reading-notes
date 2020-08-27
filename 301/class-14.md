@@ -6,7 +6,7 @@ Database normalization is the practice of separating tables of data by their pur
 
 There are three steps to database normalization called the first, second, and third normal forms. Each is dependent on the previous being completed.
 
-The first normal form is for each column in a table to have atomic values. Meaning that the table should not have repeating columns to store similar data. Instead those should be moved to enother table and related through IDs.
+The first normal form is for each column in a table to have atomic values. Meaning that the table should not have repeating columns to store similar data. Instead those should be moved to another table and related through IDs.
 
 The second normal form assumes the first is true already. Additionally, it requires that all non-key columns are dependent on the table's primary key. If they are not, then they should be moved into another table. One technique to transfer data like this is to create an intersection table, a table with only keys used to relate data from separate sources.
 
