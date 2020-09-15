@@ -2,7 +2,7 @@
 
 ## Java Imports
 
-In Java, a lot of broader funcionality has been added in the form of classes and methods. But to make use of that pre-built code, you have to tell Java what you need. Importing is the cleanest way to communicate that. Here's an example of the format for importing the LocalDateTime type:
+In Java, a lot of broader functionality has been added in the form of classes and methods. But to make use of that pre-built code, you have to tell Java what you need. Importing is the cleanest way to communicate that. Here's an example of the format for importing the LocalDateTime type:
 
 ```
 import java.time.LocalDateTime;
@@ -15,7 +15,7 @@ public class Sample {
 }
 ```
 
-It is possible to just access the classes in line (for example: `java.time.LocalDateTime.now()`). But this can cause a lot of repetetive writing and looks a lot less clean. Plus most IDE's can recognize if you are using a class and will auto-create the import line where possible.
+It is possible to just access the classes in line (for example: `java.time.LocalDateTime.now()`). But this can cause a lot of repetitive writing and looks a lot less clean. Plus most IDE's can recognize if you are using a class and will auto-create the import line where possible.
 
 ## Java Loops
 
