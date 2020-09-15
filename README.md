@@ -4,6 +4,13 @@ Hi, I'm Jack. Welcome to my *cool* collection of notes for my time at **Code Fel
 
 ## Code 301 Table of Contents
 
+  1. [Class-01](401/class-01.md)
+  1. [Class-02](401/class-02.md)
+
+---
+
+## Code 301 Table of Contents
+
   1. [Class-01](301/class-01.md)
   1. [Class-02](301/class-02.md)
   1. [Class-03](301/class-03.md)
@@ -16,7 +23,6 @@ Hi, I'm Jack. Welcome to my *cool* collection of notes for my time at **Code Fel
   1. [Class-13](301/class-13.md)
   1. [Class-14](301/class-14.md)
   1. [Class-15](301/class-15.md)
-  
 
 ---
 
