@@ -9,6 +9,8 @@ Hi, I'm Jack. Welcome to my *cool* collection of notes for my time at **Code Fel
   1. [Class-03](401/class-03.md)
   1. [Class-04](401/class-04.md)
   1. [Class-06](401/class-06.md)
+  1. [Class-09](401/class-09.md)
+  1. [Class-11](401/class-11.md)
 
 ---
 

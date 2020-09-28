@@ -16,7 +16,7 @@ A package is essentially a folder for Java files/classes. Because Java libraries
 
 ## Object Class
 
-Every class is a subclass in the Object class' eyes. It provides some methods that offer generic functionality. All of them can be overwritten in the subclasses. Here are some of the methods.
+Every class is a subclass in the Object class' eyes. It provides some methods that offer generic functionality. Most of them can be overwritten in the subclasses. Here are some of the methods.
 
   - clone() : creates a copy of an object, requires the Cloneable interface be implemented
   - equals() : tests if the object passed is exactly the same object, can be overwritten to check for equivalency instead, but consider writing that test into a new method
