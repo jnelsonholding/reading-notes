@@ -2,7 +2,7 @@
 
 ## Android Basics
 
-We're using Java, but Android apps can also be written in Kotlin or C++. Either way, then end result is compiled into an Android Package (.apk file). These packages contain everything an Android device needs to install and run an app.
+We're using Java, but Android apps can also be written in Kotlin or C++. Either way, the end result is compiled into an Android Package (.apk file). These packages contain everything an Android device needs to install and run an app.
 
 When an app is installed on an Android device, it is considered a user by the operating system. These users (apps) can each be assigned permissions and run on separate processes. Keeping all apps separate by default allows for better security management in the overall system.
 
