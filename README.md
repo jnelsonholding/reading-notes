@@ -17,6 +17,7 @@ Hi, I'm Jack. Welcome to my *cool* collection of notes for my time at **Code Fel
   1. [Class-26](401/class-26.md)
   1. [Class-29](401/class-29.md)
   1. [Class-32](401/class-32.md)
+  1. [Class-33](401/class-33.md)
 
 ---
 

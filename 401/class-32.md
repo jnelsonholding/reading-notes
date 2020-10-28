@@ -6,7 +6,7 @@ Servers are easiest to imagine as a box somewhere always running, waiting to rec
 
 Serverless is an architecture that removes that box. Instead, the operations that would be handled by the server are instead split between the front-end logic and a cloud provider's services. These services are considered event triggered and only last for the duration of their use.
 
-There are some handy advantages to this system. One is that without the box, the client does not have to worry about as much provisioning and maintanence. A server goes down intermittently, but the services in the cloud are spread around massive server farms. When a server goes down, the client doesn't see a lapse in service and the cloud provider handles their maintanence.
+There are some handy advantages to this system. One is that without the box, the client does not have to worry about as much provisioning and maintenence. A server goes down intermittently, but the services in the cloud are spread around massive server farms. When a server goes down, the client doesn't see a lapse in service and the cloud provider handles their maintenence.
 
 Serverless can also provide a lower cost point especially for clients who do not have constant traffic. Instead, the charges are specifically for the events that are triggered and the space they take up. And if there's a sudden increase in traffic, more events can be created without the hassle of provisioning more servers just to have the need die down soon after.
 
