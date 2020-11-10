@@ -20,6 +20,7 @@ Hi, I'm Jack. Welcome to my *cool* collection of notes for my time at **Code Fel
   1. [Class-33](401/class-33.md)
   1. [Class-37](401/class-37.md)
   1. [Class-39](401/class-39.md)
+  1. [Class-42](401/class-42.md)
 
 ---
 
